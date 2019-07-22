@@ -1,5 +1,4 @@
-# mysql-postgresql
-Mysql 快速迁移到PGsql (基于mysql2pg程序)
+# Mysql 快速迁移到PGsql (基于mysql2pg程序)
 
 最近需要将一个Mysql数据库迁移到PGsql，网上搜了一些方法，实践后要么行不通，要么效果不好。
 
